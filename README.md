@@ -1,7 +1,14 @@
 TODO
 ---------------
-
-
+* replace all background pictures
+* add all skills
+* finish about me section
+* connect social media icons
+* change nav bar
+* choose new font(?)
+* add in all projects
+* add copyright
+* change sections to be in separate pages 
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
