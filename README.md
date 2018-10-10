@@ -3,7 +3,7 @@ TODO
 * replace all background pictures
 * ~~add all skills~~
 * finish about me section
-* connect social media icons
+* ~~connect social media icons~~
 * change nav bar
 * choose new font(?)
 * add in all projects
