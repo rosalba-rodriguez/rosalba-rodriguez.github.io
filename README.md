@@ -5,9 +5,8 @@ TODO
 * finish about me section
 * ~~connect social media icons~~
 * change nav bar
-* choose new font(?)
-* add in all projects
-* add copyright
+* add in all projects, maybe through github links
+* ~~add copyright~~
 * change sections to be in separate pages 
 
 
