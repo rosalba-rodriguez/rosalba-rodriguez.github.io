@@ -14,6 +14,7 @@ TODO
 * change about page to experience, make about page about & education	
 * add footer to every page
 * use buttons instead of navbar
+* make button of current page different color for focus
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
