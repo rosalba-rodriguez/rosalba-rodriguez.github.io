@@ -2,12 +2,15 @@ TODO
 ---------------
 * replace all background pictures
 * ~~add all skills~~
-* finish about me section
+* finish about me section (basically resume)
+* add links and photos on about page, include lowell lessons
 * ~~connect social media icons~~
+* FIX NAV BAR ON ALL PAGES
 * change nav bar
 * add in all projects, maybe through github links
+* remember to look at linkedin for projects
 * ~~add copyright~~
-* change sections to be in separate pages 
+* change sections to be in separate pages
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
