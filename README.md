@@ -5,7 +5,7 @@ TODO
 * finish about me section (basically resume)
 * add links and photos on about page, include lowell lessons
 * ~~connect social media icons~~
-* FIX NAV BAR ON ALL PAGES
+* ~~FIX NAV BAR ON ALL PAGES~~
 * change nav bar
 * add in all projects, maybe through github links
 * remember to look at linkedin for projects
