@@ -11,6 +11,7 @@ TODO
 * remember to look at linkedin for projects
 * ~~add copyright~~
 * change sections to be in separate pages
+* change about page to experience, make about page about & education	
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
