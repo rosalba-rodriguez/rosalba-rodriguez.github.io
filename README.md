@@ -6,14 +6,14 @@ TODO
 * add links and photos on about page, include lowell lessons
 * ~~connect social media icons~~
 * ~~FIX NAV BAR ON ALL PAGES~~
-* change nav bar
+* ~~change nav bar~~
 * add in all projects, maybe through github links
-* remember to look at linkedin for projects
+* look at linkedin for projects
 * ~~add copyright~~
 * ~~change sections to be in separate pages~~
 * ~~change about page to experience, make about page about & education~~
 * ~~add footer to every page~~
-* use buttons instead of navbar
+* ~~use buttons instead of navbar~~
 * make button of current page different color for focus
 * add home button to every page
 
