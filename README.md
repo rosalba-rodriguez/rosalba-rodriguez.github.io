@@ -13,6 +13,7 @@ TODO
 * change sections to be in separate pages
 * change about page to experience, make about page about & education	
 * add footer to every page
+* use buttons instead of navbar
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
