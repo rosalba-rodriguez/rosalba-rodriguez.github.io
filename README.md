@@ -2,8 +2,8 @@ TODO
 ---------------
 * replace all background pictures
 * ~~add all skills~~
-* finish about me section (add education)
-* add links and photos on about page, include lowell lessons
+* ~~finish about me section (add education)~~
+* add links and photos on experience page, include lowell lessons
 * ~~connect social media icons~~
 * ~~FIX NAV BAR ON ALL PAGES~~
 * ~~change nav bar~~
