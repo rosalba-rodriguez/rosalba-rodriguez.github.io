@@ -15,7 +15,7 @@ TODO
 * ~~add footer to every page~~
 * ~~use buttons instead of navbar~~
 * make button of current page different color for focus
-* add home button to every page
+* ~~add home button to every page~~
 
 ## Status
 
