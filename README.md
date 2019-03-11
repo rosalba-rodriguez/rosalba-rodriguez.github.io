@@ -8,7 +8,7 @@ TODO
 * ~~FIX NAV BAR ON ALL PAGES~~
 * ~~change nav bar~~
 * add in all projects, maybe through github links
-* look at linkedin for projects
+* ~~look at linkedin for projects~~
 * ~~add copyright~~
 * ~~change sections to be in separate pages~~
 * ~~change about page to experience, make about page about & education~~
@@ -16,6 +16,7 @@ TODO
 * ~~use buttons instead of navbar~~
 * make button of current page different color for focus
 * ~~add home button to every page~~
+* figure out how to give credit to photographers (copyright somewhere?)
 
 ## Status
 
